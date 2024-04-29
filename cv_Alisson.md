@@ -1,7 +1,7 @@
 # Alisson Lemes da Cruz
 
 ## Summary
-Experienced Software Enginner and System Architect with a strong background on cloud computing (mostly Azure technologies), DevOps practices, system development, infrasctucture and modern architecture.
+Experienced Software Engineer and System Architect with a strong background on cloud computing (mostly Azure technologies), DevOps practices, system development, infrasctucture and modern architecture.
 I’ve been working closely with application development and infrastructure teams to modernize, build, deploy and operate applications on Cloud and On-Premises.
 
 
