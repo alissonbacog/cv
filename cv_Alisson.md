@@ -6,7 +6,7 @@ I’ve been working closely with application development and infrastructure team
 
 
 ## Core Skills
-Azure Cloud environment
+### Azure Cloud environment
 - Azure Kubernetes Services
 - Azure Event-hubs
 - AAD configuration
@@ -15,29 +15,29 @@ Azure Cloud environment
 - CI/CD operations
 - Scripting (Powershell, Azure CLI)
 - Azure B2B/B2C configuration
-Openshift environment
+### Openshift environment
 - Create and maintain containerized applications in the platform
 - Build and maintain Jenkins pipelines
-Event-streaming
+### Event-streaming
 - Azure Event Hubs
 - Confluent Cloud Kafka
-DevOps
+### DevOps
 - Build and maintain Infra As a Code pipelines
 - Terraform
-Repository
+### Repository
 - Github
 - Azure DevOps Repositories
 - TFS
-Databases
+### Databases
 - Azure MongoDB/SQL Server
 - Azure Postgre
 - Kubegres
-Programming
+### Programming
 - C#
 - ASP.NET MVC
 - ASP.NET Core
 - Java (SpringBoot Framework)
-Scripting
+### Scripting
 - Python
 - Shell
 - Powershell
