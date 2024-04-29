@@ -21,6 +21,7 @@ I’ve been working closely with application development and infrastructure team
 ### Event-streaming
 - Azure Event Hubs
 - Confluent Cloud Kafka
+- Kafka Strimzi (Kafka deployed on Kubernetes)
 ### DevOps
 - Build and maintain Infra As a Code pipelines
 - Terraform
@@ -41,6 +42,10 @@ I’ve been working closely with application development and infrastructure team
 - Python
 - Shell
 - Powershell
+### Monitoring
+- Elastic Search
+- Datadog
+- Kibana
 
 ## Work Experience
 ### Senior System Architect
